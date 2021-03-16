@@ -2,7 +2,7 @@
 <ul>
   <li> 👀 I’m interested in all things Data!</li>
   <li> 🌱 I’m currently learning Python, SQL, R and Tableau.</li>
-  <li> 🤝 I’m looking to collaborate on Data Science, Machine Learning and Analysis projects.</li>
+  <li> 🤝 I’m looking to collaborate on Data Science, Machine Learning and Data Analysis projects.</li>
   <li> 📫 You can reach me on <a href="https://www.linkedin.com/in/mariam-naqvi/">LinkedIn</a>. Looking forward to connect!</li>
 </ul>
 
