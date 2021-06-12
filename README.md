@@ -1,7 +1,7 @@
 <h1 style="text-align:center;"> Hi, I’m Mariam 👋</h1>
 <ul>
   <li> 👀 I’m interested in all things Data!</li>
-  <li> 🌱 I’m currently learning Python, SQL, R and Tableau.</li>
+  <li> 🌱 Fluent in Python, SQL, Tableau, R, SAS, and SPSS.</li>
   <li> 🤝 I’m looking to collaborate on Data Science, Machine Learning and Data Analysis projects.</li>
   <li> 📫 You can reach me on <a href="https://www.linkedin.com/in/mariam-naqvi/">LinkedIn</a>. Looking forward to connecting!</li>
 </ul>
